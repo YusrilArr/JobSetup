@@ -1,0 +1,44 @@
+{
+
+    "[php]": {
+
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+
+    },
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "php.format.rules.alignConsecutiveAssignments": true,
+    "php.format.rules.arrayInitializersAlignKeyValuePairs": true,
+    "php.format.rules.arrayInitializersNewLineAfterLastElement": true,
+    "php.format.rules.callParametersNewLineAfterLeftParen": true,
+    "php.format.rules.catchOnNewLine": true,
+    "php.format.rules.elseOnNewLine": true,
+    "php.format.rules.finallyOnNewLine": true,
+    "php.format.rules.ifStatementNewLineAfterLeftParen": true,
+    "php.format.rules.indentBraces": true,
+    "php.format.rules.keepControlStatementsOnOneLine": true,
+    "php.format.rules.ifStatementNewLineBeforeRightParen": true,
+    "php.format.rules.openBraceOnNewLineForTypes": true,
+    "php.format.rules.spaceBeforeColonInControlStatements": true,
+    "php.format.rules.spaceAroundConcatenation": true,
+    "php.format.rules.spaceAfterUnaryNot": true,
+    "php.format.rules.spaceAfterCast": true,
+    "php.format.rules.spaceWithinBracketsAroundExpression": true,
+    "php.format.rules.spaceWithinExpressionParens": true,
+    "php.format.rules.spaceBeforeColonInReturnType": true,
+    "php.format.rules.spaceBeforeParenthesesInArrowFunctions": true,
+    "php.format.rules.newLineAfterImplements": true,
+    "pretty-formatter.braceLine": true,
+    "pretty-formatter.bracePadding": true,
+    "pretty-formatter.braces": true,
+    "pretty-formatter.commentLine": true,
+    "pretty-formatter.comments": true,
+    "pretty-formatter.compressedCss": true,
+    "pretty-formatter.correct": true,
+    "pretty-formatter.cssInsertLines": true,
+    "pretty-formatter.elseLine": true,
+    "pretty-formatter.forceAttribute": true,
+    "pretty-formatter.forceIndent": true
+
+}
